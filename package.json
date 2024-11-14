@@ -7,6 +7,7 @@
   "files": [
     "README.md",
     "android",
+    "components",
     "index.js",
     "ios",
     "react-native-tinder-card.podspec",
